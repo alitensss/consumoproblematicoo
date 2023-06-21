@@ -1,0 +1,13 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.text-bg-warning {
+  color: var(--bs-yellow);
+  background: rgb(239,195,38);
+}
+
+.text-bg-warning {
+  background: var(--bs-yellow);
+}
+
